@@ -2,13 +2,23 @@ apiVersion: v1
 entries:
   bonsol-node:
   - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-10-11T17:29:57.094719823-04:00"
+    description: A Solana Verifiable compute coprocessor node
+    digest: d72ba28cc2446aa6ffba6121977b12def6aee50867f7f3b2f0ef902113e62bcf
+    name: bonsol-node
+    type: application
+    urls:
+    - bonsol-node-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-02T13:59:48.120752458-04:00"
+    created: "2024-10-11T17:29:57.094233618-04:00"
     description: A Solana Verifiable compute coprocessor node
     digest: 31a57b7d23e3955c91021b8b3bdae757f4e70fe31aa12e03dddbef19ef986c2e
     name: bonsol-node
     type: application
     urls:
-    - https://zerocomputing.github.io/helm/bonsol-node-0.1.0.tgz
+    - bonsol-node-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-02T13:59:48.119144191-04:00"
+generated: "2024-10-11T17:29:57.091909167-04:00"
