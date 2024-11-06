@@ -3,7 +3,17 @@ entries:
   bonsol-node:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-11-06T13:54:25.442471686-05:00"
+    created: "2024-11-06T14:20:43.464054299-05:00"
+    description: A Solana Verifiable compute coprocessor node
+    digest: 89691fb448e6b15269994d6d99d9b3cb8242efeb1b7acde2146df2fb7850f5d6
+    name: bonsol-node
+    type: application
+    urls:
+    - bonsol-node-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-11-06T14:20:43.463654471-05:00"
     description: A Solana Verifiable compute coprocessor node
     digest: 945f6420f00f9a7cabfe586cde3f8c6d1df17c20438aaf5fa45164d25b4f52dd
     name: bonsol-node
@@ -13,7 +23,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-11-06T13:54:25.442081376-05:00"
+    created: "2024-11-06T14:20:43.463318027-05:00"
     description: A Solana Verifiable compute coprocessor node
     digest: d72ba28cc2446aa6ffba6121977b12def6aee50867f7f3b2f0ef902113e62bcf
     name: bonsol-node
@@ -23,7 +33,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-11-06T13:54:25.441149293-05:00"
+    created: "2024-11-06T14:20:43.462884346-05:00"
     description: A Solana Verifiable compute coprocessor node
     digest: 31a57b7d23e3955c91021b8b3bdae757f4e70fe31aa12e03dddbef19ef986c2e
     name: bonsol-node
@@ -31,4 +41,4 @@ entries:
     urls:
     - bonsol-node-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-06T13:54:25.440218624-05:00"
+generated: "2024-11-06T14:20:43.462224984-05:00"
